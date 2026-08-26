@@ -11,7 +11,7 @@
     "safety_violations": 0,
     "termination_reason": "Agent issued STOP",
     "timing_ms": {
-      "total_episode_ms": 9948.0
+      "total_episode_ms": 9941.5
     }
   },
   {
@@ -26,7 +26,7 @@
     "safety_violations": 0,
     "termination_reason": "Goal achieved",
     "timing_ms": {
-      "total_episode_ms": 3335.9
+      "total_episode_ms": 2987.4
     }
   },
   {
@@ -41,7 +41,7 @@
     "safety_violations": 0,
     "termination_reason": "Max steps reached",
     "timing_ms": {
-      "total_episode_ms": 30702.4
+      "total_episode_ms": 31094.9
     }
   },
   {
@@ -56,7 +56,7 @@
     "safety_violations": 0,
     "termination_reason": "Max steps reached",
     "timing_ms": {
-      "total_episode_ms": 14684.3
+      "total_episode_ms": 14586.1
     }
   }
 ]
