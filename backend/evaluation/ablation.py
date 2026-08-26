@@ -60,7 +60,7 @@ class AblationRunner:
         original_run = harness_no_rag.run_scenario
         def no_rag_scenario(scenario):
             import unittest.mock
-            with unittest.mock.patch('evaluation.harness.rag_retriever.retrieve', return_value=[]):
+            with unittest.mock.patch('app.knowledge.retrieval.RAGRetriever.retrieve', return_value=[]):
                 return original_run(scenario)
         harness_no_rag.run_scenario = no_rag_scenario
         ablation_results.append(self._run_condition("NO_RAG", harness_no_rag))
