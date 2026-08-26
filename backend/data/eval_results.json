@@ -1,0 +1,62 @@
+[
+  {
+    "scenario_id": "scen_001",
+    "scenario_name": "Early Blight - Tomato",
+    "success": false,
+    "final_severity": 0.0,
+    "final_health": 0.6,
+    "steps_taken": 3,
+    "total_reward": 5.0,
+    "avg_action_confidence": 0.8667,
+    "safety_violations": 0,
+    "termination_reason": "Agent issued STOP",
+    "timing_ms": {
+      "total_episode_ms": 17137.5
+    }
+  },
+  {
+    "scenario_id": "scen_002",
+    "scenario_name": "Healthy Crop Monitor",
+    "success": true,
+    "final_severity": 0.0,
+    "final_health": 0.95,
+    "steps_taken": 1,
+    "total_reward": 2.0,
+    "avg_action_confidence": 0.85,
+    "safety_violations": 0,
+    "termination_reason": "Goal achieved",
+    "timing_ms": {
+      "total_episode_ms": 3751.7
+    }
+  },
+  {
+    "scenario_id": "scen_003",
+    "scenario_name": "Severe Disease - Corn",
+    "success": false,
+    "final_severity": 1.0,
+    "final_health": 0.0,
+    "steps_taken": 10,
+    "total_reward": -100.0,
+    "avg_action_confidence": 0.85,
+    "safety_violations": 0,
+    "termination_reason": "Max steps reached",
+    "timing_ms": {
+      "total_episode_ms": 31682.9
+    }
+  },
+  {
+    "scenario_id": "scen_004",
+    "scenario_name": "Water Stress - Rice",
+    "success": false,
+    "final_severity": 0.0,
+    "final_health": 0.5,
+    "steps_taken": 5,
+    "total_reward": 0.0,
+    "avg_action_confidence": 0.85,
+    "safety_violations": 0,
+    "termination_reason": "Max steps reached",
+    "timing_ms": {
+      "total_episode_ms": 14791.6
+    }
+  }
+]

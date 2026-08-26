@@ -1,0 +1,50 @@
+[
+  {
+    "crop": "tomato",
+    "condition": "early_blight",
+    "content": "Early blight (Alternaria solani) on tomato presents as dark brown circular lesions with concentric rings. Apply copper-based fungicide or chlorothalonil every 7-10 days. Remove infected lower leaves. Ensure adequate plant spacing for air circulation.",
+    "recommended_treatment": "copper_fungicide",
+    "source": "USDA Plant Disease Handbook",
+    "severity_range": "0.2-0.8"
+  },
+  {
+    "crop": "tomato",
+    "condition": "late_blight",
+    "content": "Late blight (Phytophthora infestans) spreads rapidly in cool, wet conditions. Water-soaked grey lesions on leaves. Apply metalaxyl or mancozeb fungicide immediately. Destroy infected plants. Do not compost.",
+    "recommended_treatment": "metalaxyl_fungicide",
+    "source": "Cornell Plant Pathology Extension",
+    "severity_range": "0.4-1.0"
+  },
+  {
+    "crop": "corn",
+    "condition": "gray_leaf_spot",
+    "content": "Gray leaf spot (Cercospora zeae-maydis) presents as rectangular gray to tan lesions parallel to leaf veins. Use foliar fungicide (azoxystrobin or pyraclostrobin) at early tasseling. Select resistant varieties in future plantings.",
+    "recommended_treatment": "azoxystrobin_fungicide",
+    "source": "Purdue Extension Plant Pathology",
+    "severity_range": "0.3-0.9"
+  },
+  {
+    "crop": "wheat",
+    "condition": "powdery_mildew",
+    "content": "Powdery mildew (Blumeria graminis) appears as white powdery patches on leaf surfaces. Apply triadimefon or propiconazole fungicide at early infection stage. Improve air circulation and avoid excess nitrogen fertilization.",
+    "recommended_treatment": "propiconazole_fungicide",
+    "source": "Kansas State University Extension",
+    "severity_range": "0.1-0.7"
+  },
+  {
+    "crop": "rice",
+    "condition": "blast",
+    "content": "Rice blast (Magnaporthe oryzae) causes diamond-shaped lesions with gray centers and brown borders. Apply tricyclazole or azoxystrobin fungicide preventively. Maintain proper water management. Use resistant varieties.",
+    "recommended_treatment": "tricyclazole_fungicide",
+    "source": "IRRI Rice Knowledge Bank",
+    "severity_range": "0.3-1.0"
+  },
+  {
+    "crop": "general",
+    "condition": "water_stress",
+    "content": "Water stress symptoms include wilting, leaf curl, and yellowing. Measure soil moisture at root zone. Irrigate deeply and infrequently to encourage deep root development. Avoid overhead irrigation; use drip irrigation where possible.",
+    "recommended_treatment": "irrigation",
+    "source": "FAO Crop Water Management Guide",
+    "severity_range": "0.1-0.6"
+  }
+]

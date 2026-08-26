@@ -1,0 +1,56 @@
+[
+  {
+    "metadata": {
+      "crop": "Tomato",
+      "disease": "Early Blight",
+      "source": "AgriVLA Crop Manual 2026",
+      "category": "Fungal"
+    },
+    "content": "Early blight is a fungal disease caused by Alternaria solani. Symptoms: Dark, concentric rings or 'bullseye' spots on older, lower leaves. Leaves may turn yellow and drop. Stem lesions and fruit rot can also occur. Treatment: Apply copper-based fungicides or chlorothalonil. Ensure proper spacing for airflow. Use mulch to prevent soil splashing. Remove infected plant debris immediately."
+  },
+  {
+    "metadata": {
+      "crop": "Tomato",
+      "disease": "Late Blight",
+      "source": "AgriVLA Crop Manual 2026",
+      "category": "Fungal"
+    },
+    "content": "Late blight is caused by Phytophthora infestans and can rapidly destroy entire crops. Symptoms: Water-soaked, irregularly shaped pale green or brown lesions on leaves. In humid conditions, a white fungal growth appears on the undersides of leaves. Stems may develop dark brown lesions. Treatment: Destroy infected plants immediately. Apply protective fungicides like chlorothalonil or mancozeb before infection spreads. Avoid overhead watering."
+  },
+  {
+    "metadata": {
+      "crop": "Wheat",
+      "disease": "Leaf Rust",
+      "source": "AgriVLA Crop Manual 2026",
+      "category": "Fungal"
+    },
+    "content": "Leaf rust (Puccinia triticina) affects wheat. Symptoms: Small, round to oval, orange-red pustules predominantly on the upper leaf surface. Severely infected leaves die early, reducing yield. Treatment: Plant rust-resistant varieties. Apply foliar fungicides such as azoxystrobin or tebuconazole when pustules first appear, especially before the heading stage."
+  },
+  {
+    "metadata": {
+      "crop": "Corn",
+      "disease": "Northern Corn Leaf Blight",
+      "source": "AgriVLA Crop Manual 2026",
+      "category": "Fungal"
+    },
+    "content": "Northern Corn Leaf Blight (NCLB) is a fungal disease. Symptoms: Large, cigar-shaped, grayish-green to tan lesions on the leaves, initially appearing on lower leaves. Lesions can coalesce and kill entire leaves. Treatment: Use resistant hybrids. Rotate crops to non-hosts for at least one year. Tillage can help bury infected residue. Apply fungicides (e.g., strobilurins) if disease appears early in the season."
+  },
+  {
+    "metadata": {
+      "crop": "Apple",
+      "disease": "Apple Scab",
+      "source": "AgriVLA Crop Manual 2026",
+      "category": "Fungal"
+    },
+    "content": "Apple scab is caused by Venturia inaequalis. Symptoms: Olive-green to black, velvety spots on leaves and fruit. Severely infected leaves yellow and drop early. Fruit may become distorted and cracked. Treatment: Sanitation is critical—rake and destroy fallen leaves. Apply preventative fungicides (like captan or myclobutanil) starting at green tip through petal fall. Choose scab-resistant apple varieties."
+  },
+  {
+    "metadata": {
+      "crop": "General",
+      "disease": "Powdery Mildew",
+      "source": "AgriVLA Crop Manual 2026",
+      "category": "Fungal"
+    },
+    "content": "Powdery mildew affects many crops (cucurbits, grapes, apples). Symptoms: White or gray powdery fungal growth primarily on the upper surfaces of leaves, stems, and sometimes fruit. Leaves may twist and yellow. Treatment: Apply sulfur-based fungicides, potassium bicarbonate, or neem oil at first sign of disease. Ensure good air circulation. Avoid high nitrogen fertilizers which promote lush, susceptible growth."
+  }
+]
