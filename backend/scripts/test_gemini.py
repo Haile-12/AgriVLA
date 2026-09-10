@@ -9,7 +9,7 @@ except ImportError as e:
     print(f"[FAIL] Failed to import google-genai: {e}")
     sys.exit(1)
 
-API_KEY = "AQ.Ab8RN6LU-OQrMkqz6po8J4gXJ5Ms-VgldhQfwkCMgBvmPuW6aw"
+API_KEY = "your key"
 
 try:
     client = genai.Client(api_key=API_KEY)
